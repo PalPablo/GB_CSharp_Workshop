@@ -1,0 +1,15 @@
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.csproj.AssemblyReference.cache
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\bin\Debug\net6.0\Task_3.exe
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\bin\Debug\net6.0\Task_3.deps.json
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\bin\Debug\net6.0\Task_3.dll
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\bin\Debug\net6.0\Task_3.pdb
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.dll
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.pdb
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+D:\IT\IT\GeekBrains\developer\3.Awareness_programming_languages\Workshops\СSharpWorkshops\Workshop_1\Homework_1\Task_3\obj\Debug\net6.0\ref\Task_3.dll
