@@ -7,20 +7,37 @@
 
 // int n = new Random().Next(1, 100); 
 
+// Console.Write("Введи первое число: ");
+// int num1 = int.Parse(Console.ReadLine());
+
+// Console.Write("Введи второе число: ");
+// int num2 = int.Parse(Console.ReadLine());
+
+// int rem = num1 % 10;
+
+// if (num1 % num2 != 0)
+// {
+//     Console.Write(rem + " не кратно");
+// }
+
+// else 
+// {
+//     Console.Write("кратно");
+// }
+
 Console.Write("Введи первое число: ");
 int num1 = int.Parse(Console.ReadLine());
 
 Console.Write("Введи второе число: ");
 int num2 = int.Parse(Console.ReadLine());
 
-int rem = num1 % 10;
 
-if (num1 % num2 != 0)
+if (num1 % num2 == 0)
 {
-    Console.Write(rem);
+    Console.Write($"{num1} кратно {num2}");
 }
 
 else 
 {
-    Console.Write("кратно");
+    Console.Write($"{num1} не кратно {num2}, остаток {num1 % num2}");
 }
