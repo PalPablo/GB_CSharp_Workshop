@@ -41,3 +41,15 @@ else
 {
     Console.Write($"{num1} не кратно {num2}, остаток {num1 % num2}");
 }
+
+// Console.WriteLine("введите число 1: ");
+// int number1 = Convert.ToInt32 (Console.ReadLine());
+// Console.WriteLine("введите число 2: ");
+// int number2 = Convert.ToInt32 (Console.ReadLine());
+
+// if (number1 % number2 == 0) {
+// Console.WriteLine("кратно");
+// }
+// else {
+// Console.WriteLine($"не кратно, {number1 % number2}");
+// }
