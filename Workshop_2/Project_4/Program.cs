@@ -5,8 +5,20 @@
 // ● 46 -> нет
 // ● 161 -> да
 
+// Console.Write("Введи число: ");
+// int num1 = int.Parse(Console.ReadLine());
+
+// if (num1 % 7 == 0 && num1 % 23 == 0)
+// {
+//     Console.Write("Да");
+// }
+// else
+// {
+//     Console.Write("Нет");
+// }
+
 Console.Write("Введи число: ");
-int num1 = int.Parse(Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 
 if (num1 % 7 == 0 && num1 % 23 == 0)
 {
