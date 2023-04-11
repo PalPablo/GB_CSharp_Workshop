@@ -4,20 +4,40 @@ a = 5; b = 7 -> max = 7
 a = 2 b = 10 -> max = 10
 a = -9 b = -3 -> max = -3*/
 
+// Console.Write("Введи первое число: ");
+// int num1 = int.Parse(Console.ReadLine());
+
+// Console.Write("Введи второе число: ");
+// int num2 = int.Parse(Console.ReadLine());
+
+// int maxNum;
+
+// if (num1 > num2) {
+//    maxNum = num1;
+// }
+
+// else {
+//      maxNum = num2;
+// }
+
+// Console.WriteLine("max = " + maxNum);
+
 Console.Write("Введи первое число: ");
-int num1 = int.Parse(Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введи второе число: ");
-int num2 = int.Parse(Console.ReadLine());
+int num2 = Convert.ToInt32(Console.ReadLine());
 
 int maxNum;
 
-if (num1 > num2) {
-   maxNum = num1;
+if (num1 > num2)
+{
+    maxNum = num1;
 }
 
-else {
-     maxNum = num2;
+else
+{
+    maxNum = num2;
 }
 
 Console.WriteLine("max = " + maxNum);
