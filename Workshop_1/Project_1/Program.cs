@@ -2,14 +2,16 @@
 число и выдает его квадрат (число умноженное
 на само себя)*/
 
+// Console.Write("Введи целое число: ");
+// int number = int.Parse(Console.ReadLine());
+// int result = number * number;
+// Console.WriteLine($"Квадрат входного числа = {result}");
+
+
 Console.Write("Введи целое число: ");
-int number = int.Parse(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 int result = number * number;
-Console.WriteLine($"Квадрат входного числа = {result}");
-
-
-
-
+Console.WriteLine($"Квадрат {number} = {result}");
 
 
 
