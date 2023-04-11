@@ -5,8 +5,15 @@
 782 -> 2
 918 -> 8*/
 
+// Console.Write("Введи трехзначное число: ");
+// int number = int.Parse(Console.ReadLine());
+
+// int result = number % 10;
+
+// Console.Write(result);
+
 Console.Write("Введи трехзначное число: ");
-int number = int.Parse(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 
 int result = number % 10;
 
