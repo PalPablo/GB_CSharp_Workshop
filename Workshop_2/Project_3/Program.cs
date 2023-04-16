@@ -5,7 +5,7 @@
 // ● 34, 5 -> не кратно, остаток 4
 // ● 16, 4 -> кратно
 
-// int n = new Random().Next(1, 100); 
+
 
 // Console.Write("Введи первое число: ");
 // int num1 = int.Parse(Console.ReadLine());
