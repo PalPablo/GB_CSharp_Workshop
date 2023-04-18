@@ -2,16 +2,16 @@
 //  и проверяет, является ли этот день выходным.
 
 Console.Write("Введи цифру, обозначающую день недели: ");
-int num = Convert.ToInt32(Console.ReadLine());
+int num = int.Parse(Console.ReadLine());
 
-if (num < 6)
+if (num == 6 || num == 7)
 {
-    Console.Write($"{num} не является выходным днем");
+    Console.Write($"{num} является выходным днем");
 }
 
 else 
 {
-    Console.Write($"{num} является выходным днем");
+    Console.Write($"{num} не является выходным днем");
 }
 
 
