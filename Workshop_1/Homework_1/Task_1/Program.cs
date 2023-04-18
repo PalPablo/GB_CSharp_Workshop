@@ -22,22 +22,42 @@ a = -9 b = -3 -> max = -3*/
 
 // Console.WriteLine("max = " + maxNum);
 
+// Console.Write("Введи первое число: ");
+// int num1 = Convert.ToInt32(Console.ReadLine());
+
+// Console.Write("Введи второе число: ");
+// int num2 = Convert.ToInt32(Console.ReadLine());
+
+// int maxNum;
+
+// if (num1 > num2)
+// {
+//     maxNum = num1;
+// }
+
+// else
+// {
+//     maxNum = num2;
+// }
+
+// Console.WriteLine("max = " + maxNum);
+
+
 Console.Write("Введи первое число: ");
 int num1 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Введи второе число: ");
 int num2 = Convert.ToInt32(Console.ReadLine());
 
-int maxNum;
-
 if (num1 > num2)
 {
-    maxNum = num1;
+Console.Write($"max = {num1}");
 }
-
-else
+else if (num1 == num2)
 {
-    maxNum = num2;
+    Console.Write($"{num1} равно {num2}");
 }
-
-Console.WriteLine("max = " + maxNum);
+else if  (num1 < num2)
+{
+    Console.Write($"max = {num2}");
+}
