@@ -3,13 +3,25 @@
 -3 -> нет
 7 -> нет*/
 
-
 Console.Write("Введи число: ");
 int num = int.Parse(Console.ReadLine());
 
-if (num % 2 == 1){
-    Console.Write("Число не четное");
+if (num % 2 == 0)
+{
+    Console.WriteLine($"{num} -> четное");
 }
-else {
-    Console.Write("Число четное");
+
+else 
+{
+    Console.WriteLine($"{num} -> нечетное");
 }
+
+// Console.Write("Введи число: ");
+// int num = int.Parse(Console.ReadLine());
+
+// if (num % 2 == 1){
+//     Console.Write("Число не четное");
+// }
+// else {
+//     Console.Write("Число четное");
+// }
