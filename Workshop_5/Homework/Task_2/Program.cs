@@ -11,7 +11,9 @@ Random rnd = new Random();
 for (int i = 0; i < array.Length; i++)
 {
     array[i] = rnd.Next(1, 21);
+    Console.Write($"{array[i]} ");
 }
+ Console.WriteLine();
 
 // Нахождение суммы элементов, стоящих на нечётных позициях
 for (int i = 1; i < array.Length; i += 2)
