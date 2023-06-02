@@ -8,13 +8,7 @@
 // 9 5 3 2
 // 8 4 4 2
 
-using System;
-using System.Collections.Generic;
 
-class Program
-{
-    static void Main()
-    {
         int[,] array = new int[,]
         {
             { 1, 4, 7, 2 },
@@ -33,7 +27,7 @@ class Program
             }
             Console.WriteLine();
         }
-    }
+    
 
     static void SortRowsDescending(int[,] array)
     {
@@ -60,5 +54,5 @@ class Program
             }
         }
     }
-}
+
 
